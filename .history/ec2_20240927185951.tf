@@ -5,7 +5,8 @@ resource "aws_iam_role" "example" {
     
         }
     
-resource "aws_iam_role" "example2" {
+resource "aws_iam_role" "example2
+" {
   name = "example-role"
   assume_role_policy = ""
     
